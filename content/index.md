@@ -5,8 +5,8 @@ title: Welcome to Quartz
 
 Здесь публикую мои статьи и выступления.
 
-- Если вас интересует осознанность, начните [здесь](https://garinthengineer.github.io/urge-to-life/tags/Осознанность).
-- Продуктовый менеджмент — [тут](https://garinthengineer.github.io/urge-to-life/tags/Продукт).
+- Если вас интересует осознанность, начните [здесь]([[MOC Осознанность]]).
+- Продуктовый менеджмент — [тут]([[MOC Продуктовый менеджмент]]).
 - Можно посмотреть все [теги](https://garinthengineer.github.io/urge-to-life/tags/).
 
 По всем вопросам пишите в ТГ: @ilyapukhov
