@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Главная страница
 ---
 Это сайт Ильи Пухова.
 
