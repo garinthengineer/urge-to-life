@@ -1,6 +1,11 @@
 ---
 title: Welcome to Quartz
 ---
+Это публичный волт Ильи Пухова.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Если вас интересует осознанность, начните здесь.
+Продуктовый менеджмент — тут.
+
+По всем вопросам пишите в ТГ: @ilyapukhov
+
+Peace ✌️
