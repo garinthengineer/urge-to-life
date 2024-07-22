@@ -9,6 +9,10 @@ title: Главная страница
 - Или [[Продуктовый менеджмент]]
 - Ну или посмотреть [теги](https://garinthengineer.github.io/urge-to-life/tags/).
 
-По всем вопросам пишите в ТГ: @ilyapukhov
+Еще у меня есть телеграм канал t.me/tiaga
 
 Peace ✌️
+
+
+---
+По всем вопросам пишите в ТГ: @ilyapukhov
