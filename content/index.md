@@ -9,7 +9,7 @@ title: Главная страница
 - Или [[Продуктовый менеджмент (MOC)]]
 - Ну или посмотреть [теги](https://garinthengineer.github.io/urge-to-life/tags/).
 
-Еще у меня есть телеграм канал t.me/tiaga
+Еще у меня есть телеграм канал https://t.me/tiaga
 
 Илья Пухов.
 Peace ✌️
