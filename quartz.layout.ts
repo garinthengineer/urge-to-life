@@ -34,12 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.DesktopOnly(Component.RecentNotes()),
   ],
   right: [
-    Component.Graph({
-      localGraph: {
-        depth: 2, // how many hops of notes to display
-        scale: 1.2, // default view scale
-        showTags: false,
-      }}),
+    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -49,4 +44,15 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Com
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Search(),
+    Component.Darkmode(),
+    Component.DesktopOnly(Component.Explorer({
+      title: "Папки",
+      folderClickBehavior: "link",
+      folderDefaultState: "collapsed"}
+    )),
+  ],
+  right: [],
+}
