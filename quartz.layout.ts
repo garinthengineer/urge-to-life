@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.DesktopOnly(Component.RecentNotes()),
   ],
   right: [
-    Component.Graph({localGraph:{depth: 3, scale: .6, showTags: false},globalGraph: {}}),
+    Component.Graph({localGraph:{depth: 3, scale: .6, showTags: false},globalGraph: {showTags: false,}}),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
