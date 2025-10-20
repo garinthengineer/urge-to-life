@@ -12,3 +12,4 @@ date:
 
 - [[Большие языковые модели. GPT generative pre-trained transformers]]
 - [[Ключевая вещь — внимание. Attention is all you need]]
+- [[Модерация отзывов на сайте с помощью ИИ]]
