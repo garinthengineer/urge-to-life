@@ -8,8 +8,12 @@ tags:
 date:
 Ссылка:
 ---
-# Записи в дневнике
+# Искуственный интеллект (GPT,  LLM и машинное обучение)
 
 - [[Большие языковые модели. GPT generative pre-trained transformers]]
 - [[Ключевая вещь — внимание. Attention is all you need]]
 - [[Модерация отзывов на сайте с помощью ИИ]]
+
+# API Wildberries
+
+- [[Разбор api wildberries]]
